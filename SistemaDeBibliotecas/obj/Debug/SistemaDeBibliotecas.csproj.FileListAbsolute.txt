@@ -1,0 +1,10 @@
+C:\Users\froyl\Documents\Dev - Csharp\SistemaDeBibliotecas\SistemaDeBibliotecas\obj\Debug\SistemaDeBibliotecas.csproj.AssemblyReference.cache
+C:\Users\froyl\Documents\Dev - Csharp\SistemaDeBibliotecas\SistemaDeBibliotecas\obj\Debug\SistemaDeBibliotecas.csproj.CoreCompileInputs.cache
+C:\Users\froyl\Documents\Dev - Csharp\SistemaDeBibliotecas\SistemaDeBibliotecas\bin\Debug\SistemaDeBibliotecas.exe.config
+C:\Users\froyl\Documents\Dev - Csharp\SistemaDeBibliotecas\SistemaDeBibliotecas\bin\Debug\SistemaDeBibliotecas.exe
+C:\Users\froyl\Documents\Dev - Csharp\SistemaDeBibliotecas\SistemaDeBibliotecas\bin\Debug\SistemaDeBibliotecas.pdb
+C:\Users\froyl\Documents\Dev - Csharp\SistemaDeBibliotecas\SistemaDeBibliotecas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\froyl\Documents\Dev - Csharp\SistemaDeBibliotecas\SistemaDeBibliotecas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\froyl\Documents\Dev - Csharp\SistemaDeBibliotecas\SistemaDeBibliotecas\obj\Debug\SistemaD.DD8FF8DB.Up2Date
+C:\Users\froyl\Documents\Dev - Csharp\SistemaDeBibliotecas\SistemaDeBibliotecas\obj\Debug\SistemaDeBibliotecas.exe
+C:\Users\froyl\Documents\Dev - Csharp\SistemaDeBibliotecas\SistemaDeBibliotecas\obj\Debug\SistemaDeBibliotecas.pdb
