@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using SistemaDeBibliotecas.Clases;
 
 namespace SistemaDeBibliotecas
 {
-    public class Genero
+    public class Genero : Base
     {
-        public string nombre { get; }
-        public Genero(string nombre)
+        public Genero(string nombre) : base(0, nombre)
         {
             this.nombre = nombre;
         }

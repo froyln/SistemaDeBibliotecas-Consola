@@ -129,6 +129,12 @@ namespace SistemaDeBibliotecas
                 8
                 );
 
+            if (cgPrestamos.obtenerPrestamosActivos().Any(prestamo => prestamo.libro.id.ToString() == respuesta[0]))
+            {
+                Menus.DisplayMensaje("No se puede eliminar un libro que está prestado actualmente.", 11, 10);
+                return;
+            }
+
             try 
             { 
                 int idLibroAEliminar = Convert.ToInt32(respuesta[0]);

@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|c:\\users\\froyl\\documents\\dev - csharp\\sistemadebibliotecas\\sistemadebibliotecas\\clases\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|solutionrelative:sistemadebibliotecas\\clases\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\sistemadebibliotecas\\clases\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|solutionrelative:sistemadebibliotecas\\clases\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\sistemadebibliotecas\\clases\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|solutionrelative:sistemadebibliotecas\\clases\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\sistemadebibliotecas\\clases\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|solutionrelative:sistemadebibliotecas\\clases\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|c:\\users\\froyl\\documents\\dev - csharp\\sistemadebibliotecas\\sistemadebibliotecas\\clases\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|solutionrelative:sistemadebibliotecas\\clases\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|c:\\users\\froyl\\documents\\dev - csharp\\sistemadebibliotecas\\sistemadebibliotecas\\clases\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|solutionrelative:sistemadebibliotecas\\clases\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|c:\\users\\froyl\\documents\\dev - csharp\\sistemadebibliotecas\\sistemadebibliotecas\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|solutionrelative:sistemadebibliotecas\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|c:\\users\\froyl\\documents\\dev - csharp\\sistemadebibliotecas\\sistemadebibliotecas\\inicio.usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|solutionrelative:sistemadebibliotecas\\inicio.usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|c:\\users\\froyl\\documents\\dev - csharp\\sistemadebibliotecas\\sistemadebibliotecas\\inicio.libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|solutionrelative:sistemadebibliotecas\\inicio.libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|c:\\users\\froyl\\documents\\dev - csharp\\sistemadebibliotecas\\sistemadebibliotecas\\inicio.prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|solutionrelative:sistemadebibliotecas\\inicio.prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|c:\\users\\froyl\\documents\\dev - csharp\\sistemadebibliotecas\\sistemadebibliotecas\\capagestion\\cg_libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50A0966A-0648-4C63-86D8-56E21FD13E50}|SistemaDeBibliotecas\\SistemaDeBibliotecas.csproj|solutionrelative:sistemadebibliotecas\\capagestion\\cg_libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menus.cs",
+              "DocumentMoniker": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Menus.cs",
+              "RelativeDocumentMoniker": "SistemaDeBibliotecas\\Menus.cs",
+              "ToolTip": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Menus.cs",
+              "RelativeToolTip": "SistemaDeBibliotecas\\Menus.cs",
+              "ViewState": "AgIAAEkBAAAAAAAAAAAswHYBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:16:11.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inicio.Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Inicio.Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaDeBibliotecas\\Inicio.Usuario.cs",
+              "ToolTip": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Inicio.Usuario.cs",
+              "RelativeToolTip": "SistemaDeBibliotecas\\Inicio.Usuario.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAADwv4wAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:13:45.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inicio.Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Inicio.Prestamo.cs",
+              "RelativeDocumentMoniker": "SistemaDeBibliotecas\\Inicio.Prestamo.cs",
+              "ToolTip": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Inicio.Prestamo.cs",
+              "RelativeToolTip": "SistemaDeBibliotecas\\Inicio.Prestamo.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:13:44.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inicio.Libro.cs",
+              "DocumentMoniker": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Inicio.Libro.cs",
+              "RelativeDocumentMoniker": "SistemaDeBibliotecas\\Inicio.Libro.cs",
+              "ToolTip": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Inicio.Libro.cs",
+              "RelativeToolTip": "SistemaDeBibliotecas\\Inicio.Libro.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowIMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:12:17.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CG_Libros.cs",
+              "DocumentMoniker": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\CapaGestion\\CG_Libros.cs",
+              "RelativeDocumentMoniker": "SistemaDeBibliotecas\\CapaGestion\\CG_Libros.cs",
+              "ToolTip": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\CapaGestion\\CG_Libros.cs",
+              "RelativeToolTip": "SistemaDeBibliotecas\\CapaGestion\\CG_Libros.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:12:06.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Clases\\Autor.cs",
+              "RelativeDocumentMoniker": "SistemaDeBibliotecas\\Clases\\Autor.cs",
+              "ToolTip": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Clases\\Autor.cs",
+              "RelativeToolTip": "SistemaDeBibliotecas\\Clases\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:03:41.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Clases\\Base.cs",
+              "RelativeDocumentMoniker": "SistemaDeBibliotecas\\Clases\\Base.cs",
+              "ToolTip": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Clases\\Base.cs",
+              "RelativeToolTip": "SistemaDeBibliotecas\\Clases\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:03:33.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prestamos.cs",
+              "DocumentMoniker": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Clases\\Prestamos.cs",
+              "RelativeDocumentMoniker": "SistemaDeBibliotecas\\Clases\\Prestamos.cs",
+              "ToolTip": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Clases\\Prestamos.cs",
+              "RelativeToolTip": "SistemaDeBibliotecas\\Clases\\Prestamos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:46:11.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Clases\\Genero.cs",
+              "RelativeDocumentMoniker": "SistemaDeBibliotecas\\Clases\\Genero.cs",
+              "ToolTip": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Clases\\Genero.cs",
+              "RelativeToolTip": "SistemaDeBibliotecas\\Clases\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:46:09.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Clases\\Usuarios.cs",
+              "RelativeDocumentMoniker": "SistemaDeBibliotecas\\Clases\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Clases\\Usuarios.cs",
+              "RelativeToolTip": "SistemaDeBibliotecas\\Clases\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:44:38.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Libros.cs",
+              "DocumentMoniker": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Clases\\Libros.cs",
+              "RelativeDocumentMoniker": "SistemaDeBibliotecas\\Clases\\Libros.cs",
+              "ToolTip": "C:\\Users\\froyl\\Documents\\Dev - Csharp\\SistemaDeBibliotecas\\SistemaDeBibliotecas\\Clases\\Libros.cs",
+              "RelativeToolTip": "SistemaDeBibliotecas\\Clases\\Libros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:39:42.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

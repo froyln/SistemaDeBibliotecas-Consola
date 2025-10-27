@@ -122,6 +122,13 @@ namespace SistemaDeBibliotecas
                 Menus.DisplayMensaje("ID inválido.", 11, 10);
                 return;
             }
+
+            if (cgPrestamos.obtenerPrestamosActivos().Any(prestamo => prestamo.usuario.id == idUsuarioAEliminar))
+            {
+                Menus.DisplayMensaje("No se puede eliminar, el usuario tiene un prestamo activo.", 11, 10);
+                return;
+            }
+
             Usuarios usuarioAEliminar = cgUsuarios.obtenerUsuarios().Find(usuario => usuario.id == idUsuarioAEliminar);
             if (usuarioAEliminar == null)
             {

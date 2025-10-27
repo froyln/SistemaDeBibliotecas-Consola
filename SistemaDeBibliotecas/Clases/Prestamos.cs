@@ -3,17 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using SistemaDeBibliotecas.Clases;
 
 namespace SistemaDeBibliotecas
 {
-    public class Prestamo
+    public class Prestamo : Base
     {
-        public int id { get; }
         public Usuarios usuario { get; }
         public Libros libro { get; }
         public DateTime fechaPrestamo { get; }
-        private DateTime? fechaDevolucion {get; set; }
-        public Prestamo(int id, Usuarios usuario, Libros libro, DateTime fechaPrestamo)
+        public Prestamo(int id, Usuarios usuario, Libros libro, DateTime fechaPrestamo) : base(id, $"Prestamo_{id}")
         {
             this.id = id;
             this.usuario = usuario;

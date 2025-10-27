@@ -3,16 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using SistemaDeBibliotecas.Clases;
 
 namespace SistemaDeBibliotecas
 {
-    public class Libros
+    public class Libros : Base
     {
-        public int id { get; }
-        public string nombre { get; }
         public List<Autor> autores { get; }
         public Genero genero { get; }
-        public Libros(int id, string nombre, Genero genero, List<Autor> autores)
+        public Libros(int id, string nombre, Genero genero, List<Autor> autores) : base(id, nombre)
         {
             this.id = id;
             this.nombre = nombre;

@@ -49,6 +49,7 @@
     <Compile Include="Clases\Autor.cs" />
     <Compile Include="CapaGestion\CG_Libros.cs" />
     <Compile Include="CapaGestion\CG_Prestamos.cs" />
+    <Compile Include="Clases\Base.cs" />
     <Compile Include="Clases\Genero.cs" />
     <Compile Include="CapaGestion\CG_Usuarios.cs" />
     <Compile Include="Clases\Libros.cs" />
